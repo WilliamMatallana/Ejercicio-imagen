@@ -1,0 +1,42 @@
+.body {
+    background-color: grey;
+}
+/*--------------------------CLASS LEFT--------------------------*/
+#left {
+    background-color: #50d3f1;
+    float: left;
+    height: 56rem;
+    width: 30%;
+}
+
+.texto_izquierda{
+    width: 80%;
+    text-align: center;
+    padding: 1.75rem;
+    margin: auto;
+}
+
+.imagen{
+    align-items: center;
+    position: center;
+}
+
+.nombre {
+    text-align: center;
+}
+
+.programmer{
+    text-align: center;
+}
+ /*--------------------------CLASS RIGHT--------------------------*/
+#right {
+    background-color: #808080;
+    float: left;
+    height: 56rem;
+    width: 70%;
+}
+
+.titulo1 {
+    color: whitesmoke;
+    text-align: center;
+}
